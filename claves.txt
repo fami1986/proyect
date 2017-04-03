@@ -1,0 +1,15 @@
+HOSTINGER
+====================================
+Web		http://mamayak.esy.es
+IP		93.188.160.99
+Usuario		u756880671
+Contraseña	proyectomamayak
+
+FTP
+====================================
+Host FTP	ftp.mamayak.esy.es 
+IP FTP		93.188.160.99
+Puerto FTP	21
+Usuario FTP	u756880671
+Contraseña FTP	proyectomamayak
+
